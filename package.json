@@ -4,7 +4,7 @@
   "description": "testdeploy nodejs to \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D, \u001b[2~de\u001b[2~ploy nodejs to heroku",
   "main": "main.js",
   "scripts": {
-    "test": "hello world"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hoonion90/std_nodejs_heroku/issues"
   },
-  "homepage": "https://github.com/hoonion90/std_nodejs_heroku#readme"
+  "homepage": "https://github.com/hoonion90/std_nodejs_heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
