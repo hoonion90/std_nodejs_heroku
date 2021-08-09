@@ -5,4 +5,4 @@
 - heroku init, add, commit, push (deploy)
 - heroku에서 node.js 서비스 실행
 - github - heroku 연동하여 
-- github 에 push => 자동 연동 배포 
+- github 에 push ➡ 자동 연동 배포 
